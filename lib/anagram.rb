@@ -18,4 +18,11 @@ class Anagram
     matches
   end 
   
+  
+  # solution
+  
+  # def match(array)
+  #   array.select {|x| x.split("").sort == @name.split("").sort}
+  # end 
+  
 end 
